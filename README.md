@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Zane. 👋
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zanetaylor&theme=monokai&area=true&hide_border=true&radius=11)
+
+---
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,php,vue,tailwind,bootstrap,astro,nodejs,git,postgres)
 
 <!--
 **zanetaylor/zanetaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
