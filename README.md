@@ -2,7 +2,7 @@
 
 Here are some of the tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,php,vue,tailwind,bootstrap,astro,nodejs,git,postgres)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,php,python,svelte,vue,react,tailwind,bootstrap,astro,nodejs,git,sqlite,postgres)
 
 <!--
 **zanetaylor/zanetaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
